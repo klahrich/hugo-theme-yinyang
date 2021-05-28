@@ -3,7 +3,7 @@
 body {
   font-family: "Tahoma";
   -webkit-font-smoothing: antialiased;
-  margin: 0 20px;
+  margin: 0 20px;    
 }
 
 article {
@@ -188,7 +188,7 @@ a:hover {
 }
 
 .post-content p {
-  hyphens: auto;
+  /*hyphens: auto;*/
   line-height: 1.8;
   /* text-align: justify; */
   text-justify: ideographic;
