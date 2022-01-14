@@ -279,3 +279,7 @@ blockquote {
   border-radius: 5px;
   font-style: italic;
 }
+
+h2 {
+  color: rgb(27, 71, 165);
+}
