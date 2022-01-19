@@ -68,9 +68,9 @@
 
           <!-- split -->
           <div style="height: 20px;"></div>
-          {{ if .Site.Params.disqus }}
+          {{ if .Site.Params.graphcomment }}
           <div class="post-comments">
-            {{ partial "disqus.html" . }}
+            {{ partial "graphcomment.html" . }}
           </div>
           {{ end }}
         {{ end }}
