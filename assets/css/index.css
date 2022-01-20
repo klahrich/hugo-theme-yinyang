@@ -114,6 +114,10 @@ a:hover {
   margin: 12px 0;
 }
 
+.posts-title-title {
+  font-size: larger;
+}
+
 .posts-categories {
   font-size: 0.8rem;
   margin: auto;
@@ -193,6 +197,11 @@ a:hover {
   /* text-align: justify; */
   text-justify: ideographic;
   margin-bottom: 1em;
+}
+
+.post-summary {
+  margin-top: 10px;
+  font-size: 75%;
 }
 
 .related-content {
