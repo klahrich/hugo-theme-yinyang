@@ -292,16 +292,16 @@ blockquote{
   font-style:italic;
   color: #555555;
   padding:1.2em 30px 1.2em 75px;
-  border-left:8px solid #c77b7b ;
+  border-left:8px solid #554f4f ;
   line-height:1.6;
   position: relative;
-  background:#fff3f3;
+  background:#ebe7e7;
 }
 
 blockquote::before{
   font-family:Arial;
   content: "\201C";
-  color:#c77b7b;
+  color:#272323;
   font-size:4em;
   position: absolute;
   left: 10px;
